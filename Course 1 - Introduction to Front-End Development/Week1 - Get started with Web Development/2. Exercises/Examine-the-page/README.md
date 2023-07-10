@@ -12,19 +12,19 @@ Find the HTML ID of the Little Lemon logo.
 ## Instructions
 - __Step 1:__ Double click index.html to view the file in your local web browser. Verify that it looks like this
 
-  <img src="readme-images/pic1.jpeg" width=500>
+  <img src="readme-images/image1.jpeg" width=500>
 
 - __Step 2:__ Right-click the Little Lemon logo and select `Inspect` (or `Inspect Element`)
   
-  <img src="readme-images/pic2.png" width=500>
+  <img src="readme-images/image2.png" width=500>
 
 - __Step 3:__ Inspect the line in the HTML for the logo in the developer tools panel. The line begins with `<img.`
 
   __Note:__ In the line, there is an ID in the following format id="???". Note the value that the ID is equal to.
 
-  <img src="readme-images/pic3.png" width=500>
+  <img src="readme-images/image3.png" width=500>
 
-  <img src="readme-images/pic4.png" width=500>
+  <img src="readme-images/image4.png" width=500>
 
 ## Tips
 - If you get stuck, close the developer tools and start over.
@@ -44,11 +44,11 @@ Change the text of Our Menu to Little Lemon Menu.
 ## Instructions
 - __Step 1:__ Double click index.html to view the file in your local web browser. Verify that it looks like this
 
-  <img src="readme-images/pic1.jpeg" width=500>
+  <img src="readme-images/image1.jpeg" width=500>
 
 - __Step 2:__ Right-click the `Our Menu` text and select `Inspect` (or `Inspect Element`)
   
-  <img src="readme-images/pic5.png" width=500>
+  <img src="readme-images/image5.png" width=500>
 
 - __Step 3:__ Double-click the `Our Menu` text in the Elements tab of the developer tools panel.
 
