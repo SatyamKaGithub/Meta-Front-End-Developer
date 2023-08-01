@@ -59,12 +59,3 @@ Implement the body of `clearForm` function to clear the form state after a succe
 ### **Tip**
 
 React offers two focus events for form elements: `onBlur` and `onFocus`. You can check more information about them [here](https://reactjs.org/docs/events.html#focus-events).
-
-## Demo
-
-<table>
-  <tr>
-    <td><img src="./public/demo1.png"></td>
-    <td><img src="./public/demo2.png"></td>
-  </tr>
- </table>
