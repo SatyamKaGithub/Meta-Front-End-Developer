@@ -14,9 +14,6 @@ Your task is to complete the data fetching using the `fetch()` function and to h
 
 In the return statement of the App component, you also need to add an h2 heading showing the customer's name and the customer's image from the data fetched from the random user API.
 
-Here's an example screenshot of the completed app served in the browser.
-
-![Completed M2L2-06 code lab's app](instruction-pics/m2l2-06-completed.png)
 
 In other words, the completed app should display the following:
 1. An h1 heading with the text that reads "Customer data"
